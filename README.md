@@ -24,5 +24,5 @@ This project involves the implementation of a Whack-a-Mole-like game on an FPGA 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/FPGA-Whack-a-Mole.git
+   git clone https://github.com/getrichthroughcode/FPGA-Whack-a-Mole.git
    cd FPGA-Whack-a-Mole
